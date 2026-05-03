@@ -1,0 +1,34 @@
+{
+  "token": "MTUwMDAxMjUyMTc0OTIyMTU5OQ.GPMp3u.KNyA7sCN-L-NSbLKM6MPpBif38AJpd2txYAgK4",
+  "owner_id": 1315014140804206636,
+  "log_channel_id": 0,
+  "products": {
+    "fortnite_hack": {
+      "name": "هاك فورت نايت خارجي",
+      "prefix": "FN",
+      "role_id": 1500101657722093600,
+      "files_to_send": [
+        "assets/External_T3N.zip"
+      ],
+      "salla_url": "https://salla.sa/t3nn/OyWpQyw"
+    },
+    "spoofer": {
+      "name": "سبوفر تعن الدائم",
+      "prefix": "SP",
+      "role_id": 1463251032351047906,
+      "files_to_send": [
+        "assets/discord.gg_t3n.zip"
+      ],
+      "salla_url": "https://salla.sa/t3nn/OyWpQyw"
+    },
+    "hwid_unban": {
+      "name": "فك باند هاردوير فورت نايت",
+      "prefix": "UB",
+      "role_id": 1500092886467870720,
+      "files_to_send": [
+        "assets/discord.gg_t3n.zip"
+      ],
+      "salla_url": "https://salla.sa/t3nn/OyWpQyw"
+    }
+  }
+}
